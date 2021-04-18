@@ -1,5 +1,6 @@
-### Hi there 👋🏾
+# Hi, I'm Eric 👋🏾  👨🏾‍💻
 
+<img src="https://github.com/E-sims/E-sims/blob/main/gh-header-img.png" alt="wireframe banner - software engineer">
 
 ## Things I am up to these days:
 
