@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-<!--
-**E-sims/E-sims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Things I am up to these days:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Live Cultr
+- 🌱 I’m currently learning ... React, Gatsby.js, TailwindCSS
+- 👯 I’m looking to collaborate on ... Gatsby.js
+- 🤔 I’m looking for help with ... React
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [Live Cultr](https://livecultr.co/contact-us/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Film & Videography got me into tech
+
