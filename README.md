@@ -1,7 +1,5 @@
 # Hi, I'm Eric 👋🏾  👨🏾‍💻
 
-<img src="https://github.com/E-sims/E-sims/blob/main/gh-header-img.png" alt="wireframe banner - software engineer">
-
 <a href="https://app.daily.dev/ericSims_dev"><img src="https://api.daily.dev/devcards/2a2915803a6640ce8a75015d3cd97502.png?r=005" width="400" alt="Eric Sims's Dev Card"/></a>
 
 ## Things I am up to these days:
