@@ -1,4 +1,4 @@
-# Hi, I'm Eric 👋🏾  👨🏾‍💻
+# Hi, I'm Eric 👋🏾
 
 <a href="https://app.daily.dev/ericSims_dev"><img src="https://github.com/E-sims/E-sims/blob/main/devcard.svg" width="400" alt="Eric Sims's Dev Card"/></a>
 
